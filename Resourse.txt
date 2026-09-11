@@ -1,0 +1,62 @@
+Rashedul Alam Shakil   · Follow
+June 19, 2024  · 
+SQL, Python, ML, AI & Data Science - এই ফিল্ড গুলোতে বাংলা ভাষায় ভালো রিসোর্স ছিল না! এটা একদম সত্যি কথা। But আলহামদুলিল্লাহ এখন আছে। নিচে Study Mart | Learn Data Science Smartly এর কিছু কোর্স লিংক দেয়া হয়েছে। বাংলা চ্যানেলকে সাপোর্ট করুন, বাংলা ভাষায় দারুন কিছু হবে, ইনশাআল্লাহ।
+**-------------------------------**------------------------------------**
+✅ Job Based Full Roadmap on Data Science & AI: https://github.com/rashakil-ds/Roadmap-Docs
+✅ Learn Python: https://www.youtube.com/playlist...
+✅ A-Z Linear Algebra & Calculus: https://youtube.com/playlist...
+✅ Statistics for Data Scientists with R: https://github.com/.../Applied-Statistics-for-Data...
+✅ Learn Pandas: https://www.youtube.com/playlist...
+✅ Machine Learning: https://www.youtube.com/playlist...
+✅ Deep Learning & AI: https://www.youtube.com/playlist...
+✅ Python Flask: https://www.youtube.com/playlist...
+✅ Statistics with Python: https://www.youtube.com/playlist...
+✅ Python Django & RestAPI: https://youtube.com/playlist...
+✅ SQL Job Ready Course: https://www.youtube.com/playlist...
+✅ Complete GitHub: https://youtube.com/playlist...
+Please share this resource with your friends. Your single share could be the boost your friend needs to transform their learning motivation!
+
+https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fcodebasics%2Froadmaps%2Fblob%2Fmaster%2Fmachine-learning-engineer-roadmap-2021%2Fml_engineer_roadmap_2021.md%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExZ2d4b00zR3pCdFgxeEE5QQEePdQjIzEVOwmnrXEssWbX_nlS9XrkldglVOsuAaYA078oFUi_Ue-UkCm3VgE_aem_xBAjcEoie9jrmhmHK7-8yw&h=AT0aRHvZMgthXzDlo5pPwp481ez7waxJlP4yYEEExYN-kE_0MHX6O5qHmrkFmsXmNqLRftOXa_g48pY3TJ_kruEfE-Jw6ONc539IUE0XG3_V2lHsqi4KBCVhchPEMll58nplu2eqfeUYtlFI&__tn__=R]-R&c[0]=AT2ky83H4EknjZVnRR_wuHFs_P0xqUDp7ioJg2QrMPFaee_l2QF8_8W1hRiCOUMULL2Xlpzq4JAHJhZU7MtsfQaNrozvNntjlO1mX656i3yUdEEqLS6uBNrdiWQP8SaclDyNbA118GUcs0UoUrw76sC0vsVHNWgVXgLvn9EJ8q5dBzbrfO6UnAs
+
+6-মাসের Free Courses and Roadmap একজন মেশিন লার্নিং ইঞ্জিনিয়ার হওয়ার জন্য
+🙌 Special post only for group members, But you can share 🌟🌟
+আপনাকে interview-ready জন্য এবং 90% লোকের থেকে এগিয়ে যাওয়ার জন্য 19টি বিনামূল্যে Courses । সাফল্য নিশ্চিত করতে নির্দিষ্ট ক্রমে এই পদক্ষেপগুলি অনুসরণ করুন:
+𝗠𝗼𝗻𝘁𝗵 𝟭: 𝗠𝗮𝘁𝗵𝗲𝗺𝗮𝘁𝗶𝗰𝘀 & 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀
+Weeks 1–2: Study Linear Algebra concepts — https://lnkd.in/eabKGp_p
+Weeks 3–4: Continue with Calculus and Probability & Statistics.Practice problems to solidify your understanding — https://lnkd.in/ea2DmZ2d
+𝗠𝗼𝗻𝘁𝗵 𝟮: 𝗦𝗤𝗟 & 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 𝗮𝗻𝗱 𝗠𝗼𝗿𝗲 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀
+Weeks 1–2: Learn SQL basics — https://lnkd.in/ea2DmZ2d
+Weeks 3–4: Continue studying Probability & Statistics. Apply statistical concepts in SQL where possible.
+𝗠𝗼𝗻𝘁𝗵 𝟯: 𝗖𝗼𝗿𝗲 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀 𝗼𝗳 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴
+Weeks 1–2: Go through Google’s ML Crash Course — https://lnkd.in/eT7NiGp6
+Weeks 3–4: Go through Andrew Ng’s ML Course — https://lnkd.in/e964AiC7
+𝗠𝗼𝗻𝘁𝗵 𝟰: 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗦𝗸𝗶𝗹𝗹𝘀 (𝗣𝘆𝘁𝗵𝗼𝗻 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀)
+Weeks 1–2: Learn Python basics. https://lnkd.in/euyfHHxa
+Weeks 3–4: Start with Python libraries for Machine Learning.
+• Scikit-learn — https://lnkd.in/eqFhCwXt
+• TensorFlow — https://lnkd.in/e6RWbe9h
+• PyTorch — https://lnkd.in/efhPxZPM
+𝗠𝗼𝗻𝘁𝗵 𝟱: 𝗠𝗼𝗱𝗲𝗹 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴 & 𝗧𝘂𝗻𝗶𝗻𝗴 𝗧𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀, 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗠𝗼𝗱𝗲𝗹𝘀
+Weeks 1–2: Learn about model training and tuning techniques.
+• Intermediate ML — https://lnkd.in/e89AmkzE
+• Hyperparameter Tuning — https://lnkd.in/ezEnqeG2
+Weeks 3–4: Start with Advanced Deep Learning Models.
+• Stanford’s CS231n (CNNs) — http://cs231n.github.io/
+• Deep Learning Book — https://lnkd.in/e_utEgZM
+𝗠𝗼𝗻𝘁𝗵 𝟲: 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁, 𝗠𝗼𝗻𝗶𝘁𝗼𝗿𝗶𝗻𝗴, & 𝗠𝗮𝗶𝗻𝘁𝗲𝗻𝗮𝗻𝗰𝗲 𝗮𝗻𝗱 𝗥𝗲𝘀𝘂𝗺𝗲 𝗣𝗿𝗲𝗽𝗮𝗿𝗮𝘁𝗶𝗼𝗻, 𝗦𝗼𝗳𝘁 𝗦𝗸𝗶𝗹𝗹𝘀 & 𝗧𝗶𝗽𝘀
+Weeks 1–2: Learn about deployment, monitoring, and maintenance.
+• Docker — https://lnkd.in/esXHzx9k
+• Git — https://lnkd.in/esQ8FMxS
+• AWS ML — https://lnkd.in/eZcdQPee
+• Azure ML — https://lnkd.in/e5fvmvtk
+Weeks 3–4: Prepare your resume and improve your soft skills Resume and Soft Skills & Tips, and work on projects.
+• 217 Machine Learning Projects — https://lnkd.in/e5kyv3Tv
+Set realistic goals.
+Practice is key — so work on projects and apply your knowledge to real-world problems for the best learning experience.
+Don’t try to learn everything about machine learning in 6 months.
+Focus on learning the basics and then start working on your own projects.
+Machine learning is a fascinating field with endless possibilities.
+Enjoy the journey!
+🌟 If you think I’ve missed something, please feel free to mention it in the comments section.
+🙌 Stay connected! special post only for group member, But you can share 🌟🌟
+Naem Azam Chowdhury
